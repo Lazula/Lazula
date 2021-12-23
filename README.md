@@ -31,7 +31,7 @@ Project Zomboid.
   repositories and custom-written scripts.
 * [cryptopals](https://github.com/Lazula/cryptopals): A collection of solutions
   for the challenges at [cryptopals.com](https://cryptopals.com) written in raw
-  C89. The only library used in GMP for the large numbers required by
+  C89. The only library used is GMP for the large numbers required by
   asymmetric encryption.
 
 ## Contributions
